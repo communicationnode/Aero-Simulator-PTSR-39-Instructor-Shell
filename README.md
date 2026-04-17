@@ -5,7 +5,7 @@
 
 ----------------------------------------
 
-<div align="center"> <img width="94" src="git-res/ico.png"> </div>
+<div align="center"> <img src="git-res/animated.png"> </div>
 
 > [!NOTE]
 >
