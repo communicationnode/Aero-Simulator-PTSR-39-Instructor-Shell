@@ -1,4 +1,4 @@
-# Flight Simulator Instructor Shell
+# Aero Simulator PTSR-39 Instructor Shell
 
 | ![Static Badge](https://img.shields.io/badge/communicationnode-communicationnode) | ![GitHub top language](https://img.shields.io/github/languages/top/communicationnode/aciation-simulator-instructor-shell) | ![GitHub](https://img.shields.io/github/license/communicationnode/aciation-simulator-instructor-shell) | ![GitHub Repo stars](https://img.shields.io/github/stars/communicationnode/aciation-simulator-instructor-shell) | ![win](https://badgen.net/badge/icon/Windows,.NET%20Core?icon=windows&label&list=1) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -13,17 +13,14 @@
 
 ----------------------------------------
 
-<div align="center"> <img width="512" src="git-res/animated_preview.gif"> </div>
-
-----------------------------------------
-# About Project
+# Project configuration:
 
 | .NET Version |     Target      | Size  |
 | :----------: | :-------------: | :---: |
-|    net9.0    | Windows 32x\64x | 265mb |
+|   Net 9.0    | Windows 32x\64x | 265mb |
 
 
-# Preview
+# Preview:
 
 The program communicates via a local network between several automated workstations, each of which has special software for reading data from the cockpit controls, as well as software for flight modeling and graphical output of the simulation.
 
@@ -31,11 +28,11 @@ The instructor controls the student's flight using a specially designed instruct
 
 ----------------------------------------
 
-<div align="center"> <img width="512" src="git-res/animated_preview2.gif"> </div>
+<div align="center"> <img width="512" src="git-res/animated_preview.gif"> <img width="512" src="git-res/animated_preview2.gif"> </div>
 
 ----------------------------------------
 
-# About Functionality
+# Functionality:
 
 > [!WARNING]
 >
